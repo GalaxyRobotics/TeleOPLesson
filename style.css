@@ -20,6 +20,12 @@ h1 {
   background-color: green;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 .wordStyle {
   font-family: Monospace, Courier;
   font-size: 16px;
