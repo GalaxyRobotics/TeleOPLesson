@@ -6,11 +6,11 @@ body {
   font-size: 24px;
   text-align: center;
 }
-//#be9be0
+
 h1 {
   font-size: 18px;
   font-style: italic;
-  color: #9e2ed2;
+  color: #white;
   text-align: center;
   background-color: #a35ee6;
   border: 3px black;
@@ -32,6 +32,6 @@ h1 {
   font-family: Monospace, Courier;
   font-size: 16px;
   padding: 70px 0;
-  border: 3px solid green;
+  border: 3px solid black;
   text-align: center;
 }
