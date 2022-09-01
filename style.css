@@ -11,7 +11,9 @@ h1 {
   font-style: italic;
   color: #9e2ed2;
 }
-
+.headerStyle {
+  background-color: purple;
+}
 .big {
   height: 100px;
   width: 100px;
