@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-  font-size: 18px;
+  font-size: 34px;
   font-style: italic;
   color: #white;
   text-align: center;
@@ -26,12 +26,19 @@ h1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 75%;
 }
 .wordStyle {
   font-family: Monospace, Monaco;
   font-size: 16px;
   padding: 70px 0;
+  border: 3px solid black;
+  text-align: center;
+}
+.wordText{
+ font-family: Monospace, Monaco;
+  font-size: 16px;
+  padding: 10px 0;
   border: 3px solid black;
   text-align: center;
 }
