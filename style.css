@@ -9,10 +9,11 @@ body {
 
 h1 {
   font-size: 34px;
-  font-style: italic;
   color: #white;
   text-align: center;
   background-color: #d8b0ff;
+  border-style: dotted;
+  font-family: Monospace, Monaco;
   border: 3px black;
   padding: 5px 0;
 }
