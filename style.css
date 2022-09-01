@@ -4,16 +4,17 @@ body {
   font-family: Monospace, Courier;
   margin: 2em;
   font-size: 24px;
+  text-align: center;
 }
 
 h1 {
   font-size: 18px;
   font-style: italic;
   color: #9e2ed2;
-}
-.headerStyle {
+  text-align: center;
   background-color: purple;
 }
+
 .big {
   height: 100px;
   width: 100px;
