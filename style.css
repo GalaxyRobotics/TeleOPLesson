@@ -6,13 +6,14 @@ body {
   font-size: 24px;
   text-align: center;
 }
-
+//#be9be0
 h1 {
   font-size: 18px;
   font-style: italic;
   color: #9e2ed2;
   text-align: center;
-  background-color: purple;
+  background-color: #a35ee6;
+  border: 3px black;
 }
 
 .big {
@@ -21,7 +22,7 @@ h1 {
   background-color: green;
 }
 
-img {
+.img {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -30,4 +31,7 @@ img {
 .wordStyle {
   font-family: Monospace, Courier;
   font-size: 16px;
+  padding: 70px 0;
+  border: 3px solid green;
+  text-align: center;
 }
